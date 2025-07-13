@@ -17,4 +17,5 @@ Here are the AWS projects I am working on. Completed projects are marked accordi
   [View PDF](./Data%20Visualization%20and%20Analysis%20with%20QuickSight.pdf)
 
 - **Cloud Security with AWS IAM**  
-  _Status: Not Started_
+ _Status: Completed_  
+  [View PDF](./aws-security-iam.pdf)
